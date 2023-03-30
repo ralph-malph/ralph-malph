@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi! I'm Ralph Campbell 👋
+
+I work for NatWest as a Junior DevOps Engineer.
+
+I am going to upload scripts i create to help automate DevOps tasks.
 
 <!--
 **ralph-malph/ralph-malph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
