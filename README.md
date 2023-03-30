@@ -2,7 +2,7 @@
 
 I work for NatWest as a Junior DevOps Engineer.
 
-I am going to upload scripts i create to help automate DevOps tasks.
+I've recently started working in DevOps and i'm going to upload scripts i have created to help automate my tasks.
 
 <!--
 **ralph-malph/ralph-malph** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
